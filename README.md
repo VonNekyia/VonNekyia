@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🌐 **Portfolio:** [wunder.codes](https://wunder.codes)  
+💼 **LinkedIn:** [gerrit-wunder](https://www.linkedin.com/in/gerrit-wunder/)  
+🔐 **Interests:** Software Engineering • Cybersecurity
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VonNekyia/VonNekyia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VonNekyia/VonNekyia/output/github-snake.svg" />
